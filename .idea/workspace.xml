@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="241a7260-2009-41e2-9dbd-2284ea88def9" name="Default Changelist" comment="Exoress generator with rest API">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/dishes.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/dishes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/dishRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/dishRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/leadersRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/leadersRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/promoRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/promoRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/uploadRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/uploadRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>var</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1S1UT7olOWOCJH1hh95DPNqeXWC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../React/confusion" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yaros\Desktop\NodeJS\conFusionServer\public" />
+      <recent name="C:\Users\yaros\Desktop\NodeJS\conFusionServer\routes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="241a7260-2009-41e2-9dbd-2284ea88def9" name="Default Changelist" comment="" />
+      <created>1556978400263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556978400263</updated>
+      <workItem from="1556978402412" duration="2112000" />
+      <workItem from="1556987390099" duration="295000" />
+      <workItem from="1557590731446" duration="4686000" />
+      <workItem from="1557597903075" duration="6137000" />
+      <workItem from="1558259682673" duration="22861000" />
+      <workItem from="1558391363175" duration="3538000" />
+      <workItem from="1558548335343" duration="4419000" />
+      <workItem from="1558553789801" duration="16822000" />
+      <workItem from="1558935149819" duration="5262000" />
+      <workItem from="1558943015565" duration="2970000" />
+      <workItem from="1559025468048" duration="3603000" />
+      <workItem from="1559161871753" duration="643000" />
+      <workItem from="1570730606306" duration="886000" />
+      <workItem from="1570780933177" duration="956000" />
+      <workItem from="1572525052034" duration="1069000" />
+      <workItem from="1576139242414" duration="234000" />
+      <workItem from="1576148088743" duration="1784000" />
+      <workItem from="1576181922750" duration="1584000" />
+      <workItem from="1576344138038" duration="45000" />
+    </task>
+    <task id="LOCAL-00001" summary="Exoress generator with rest API">
+      <created>1556979979038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556979979038</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exoress generator with rest API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exoress generator with rest API" />
+  </component>
+</project>
