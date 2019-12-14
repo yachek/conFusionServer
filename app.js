@@ -8,6 +8,8 @@ const FileStore = require('session-file-store')(session);
 const passport = require('passport');
 const authenticate = require('./authenticate');
 
+const commentRouter = require('./routes/commentRouter');
+
 const mongoose = require('mongoose');
 
 const config = require('./config');
@@ -50,6 +52,7 @@ app.use('/dishes', dishRouter);
 app.use('/promotions', promoRouter);
 app.use('/leaders', leadersRouter);
 app.use('/imageUpload', uploadRouter);
+app.use('/comments',commentRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

@@ -3,16 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="241a7260-2009-41e2-9dbd-2284ea88def9" name="Default Changelist" comment="Exoress generator with rest API">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/dishes.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/dishes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/cors.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/cors.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/dishRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/dishRouter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/leadersRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/leadersRouter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/promoRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/promoRouter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/uploadRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/uploadRouter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +35,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -53,15 +56,15 @@
       <recent name="C:\Users\yaros\Desktop\NodeJS\conFusionServer\routes" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -94,6 +97,7 @@
       <workItem from="1576148088743" duration="1784000" />
       <workItem from="1576181922750" duration="1584000" />
       <workItem from="1576344138038" duration="45000" />
+      <workItem from="1576344691003" duration="771000" />
     </task>
     <task id="LOCAL-00001" summary="Exoress generator with rest API">
       <created>1556979979038</created>
